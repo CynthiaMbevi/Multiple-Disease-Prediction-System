@@ -46,9 +46,8 @@ with st.sidebar:
 
 
 # Diabetes Prediction Page
-    if selected == 'Diabetes Prediction':
-
-        # page title
+if selected == 'Diabetes Prediction':
+   # page title
         st.title('Diabetes Prediction using ML')
 
         # getting the input data from the user
@@ -99,6 +98,8 @@ with st.sidebar:
                 diabetes_diagnosis = 'The person has diabetes'
 
         st.success(diabetes_diagnosis)
+
+       
 
     # Heart Disease Prediction Page
 if selected == 'Heart Disease Prediction':
