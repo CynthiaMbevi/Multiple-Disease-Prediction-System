@@ -40,7 +40,7 @@ with st.sidebar:
                              'Breast Cancer Prediction',
                              "Parkinson's Disease Prediction",],
                            menu_icon='hospital-fill',
-                           icons=['person', 'heart', 'person-standing-dress'],
+                           icons=['person', 'heart', 'person-standing-dress', 'person-raised-hand'],
                            default_index=0)
        
 
