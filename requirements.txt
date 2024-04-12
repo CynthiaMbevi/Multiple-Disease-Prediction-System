@@ -1,7 +1,6 @@
 streamlit-option-menu 
 streamlit
 scikit-learn
-pickle
 pandas
 numpy
 
