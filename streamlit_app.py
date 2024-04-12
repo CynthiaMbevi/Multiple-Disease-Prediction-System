@@ -35,7 +35,8 @@ with st.sidebar:
     selected = option_menu('Multiple Disease Prediction System',
                            
 
-                            [ 'Breast Cancer Prediction',
+                            [ 'Diabetes Prediction',
+                             'Breast Cancer Prediction',
                              'Heart Disease Prediction',
                             "Parkinson's Disease Prediction",],
                            menu_icon='hospital-fill',
