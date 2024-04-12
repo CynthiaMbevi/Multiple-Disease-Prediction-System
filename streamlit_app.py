@@ -24,12 +24,11 @@ working_dir = os.path.dirname(os.path.abspath(__file__))
 
 diabetes_model = pickle.load(open("saved models/diabetes_model.sav", 'rb'))
 
-parkinsons_model = pickle.load(open("C:/Users/cynth/Downloads/Disease Prediction System/saved models/parkinsons_model.sav", 'rb'))
+parkinsons_model = pickle.load(open("saved models/parkinsons_model.sav", 'rb'))
 
-heart_model = pickle.load(open("C:/Users/cynth/Downloads/Disease Prediction System/saved models/heart_model.sav", 'rb'))
+heart_model = pickle.load(open("saved models/heart_model.sav", 'rb'))
 
-breast_cancer_model = pickle.load(open("C:/Users/cynth/Downloads/Disease Prediction System/saved models/breast_cancer_model.sav", 'rb'))
-
+breast_cancer_model = pickle.load(open("saved models/breast_cancer_model.sav", 'rb'))
 
 
 with st.sidebar:
