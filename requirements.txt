@@ -1,3 +1,7 @@
-streamlit-option-menu         0.3.12
-streamlit                     1.32.2
-scikit-learn                  1.2.2
+streamlit-option-menu 
+streamlit
+scikit-learn
+pickle
+pandas
+numpy
+
