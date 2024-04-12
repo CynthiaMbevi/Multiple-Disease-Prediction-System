@@ -1,1 +1,4 @@
-
+[theme]
+base="light"
+primaryColor="#007dff"
+backgroundColor="#9ac3e4"
